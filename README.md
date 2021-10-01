@@ -1,2 +1,3 @@
 # 7-segment-display-HEX0
-Hardware and software system for the DE2-115 board
+
+Keywords: Altera DE2-115 Development and Education Board, Intel Cyclone® IV E FPGA, Intel Quartus Prime, Eclipse IDE.
